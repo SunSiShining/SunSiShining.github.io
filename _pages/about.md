@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate from the Department of Computer Science and Technology at Tsinghua University. I am supervised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/index.html). My research interests lie in Information Retrieval and Conversational Search.
+I am a Ph.D. candidate from the Department of Electronic Engineering at Tsinghua University. My research interests lie in Deep Leanring and Information Retrieval.
 
 Preprints and Publications
 ======
@@ -16,6 +16,8 @@ Preprints and Publications
 
 2020
 ------
-Chenyan Xiong\*, Zhenghao Liu\*, Si Sun\*, Zhuyun Dai\*, Kaitao Zhang\*, **Shi Yu**\*, Zhiyuan Liu, Hoifung Poon, Jianfeng Gao, Paul Bennett. CMT in TREC-COVID Round 2: Mitigating the Generalization Gaps from Web to Special Domain Search. [[arxiv]](https://arxiv.org/pdf/2011.01580.pdf) 
+**Si Sun**\*, Yingzhuo Qian\*, Zhenghao Liu, Chenyan Xiong, Kaitao Zhang, Jie Bao, Zhiyuan Liu, Paul Bennett. Meta Adaptive Neural Ranking with Contrastive Synthetic Supervision. [[paper]](https://arxiv.org/pdf/2012.14862.pdf)
 
-**Shi Yu**\*, Jiahua Liu\*, Jingqin Yang, Chenyan Xiong, Paul Bennett, Jianfeng Gao, Zhiyuan Liu. Few-Shot Generative Conversational Query Rewriting. _The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020)._ <font color="red">Best Short Paper Award.</font> [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401323) [[code]](https://github.com/thunlp/ConversationQueryRewriter) 
+**Si Sun**, Chenyan Xiong, Zhenghao Liu, Zhiyuan Liu, Bao Jie. Joint Keyphrase Chunking and Salience Ranking with BERT. [[paper]](https://arxiv.org/pdf/2004.13639) [[code]](https://github.com/thunlp/BERT-KPE)
+
+Chenyan Xiong\*, Zhenghao Liu\*, **Si Sun**\*, Zhuyun Dai\*, Kaitao Zhang\*, Shi Yu\*, Zhiyuan Liu, Hoifung Poon, Jianfeng Gao, Paul Bennett. CMT in TREC-COVID Round 2: Mitigating the Generalization Gaps from Web to Special Domain Search. [[paper]](https://arxiv.org/pdf/2011.01580.pdf) 
